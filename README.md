@@ -1,3 +1,3 @@
-# rubyx-tools
+# rubix-tools
 
-tools for rubyx of React
+tools for rubix of React

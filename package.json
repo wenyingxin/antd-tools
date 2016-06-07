@@ -1,12 +1,12 @@
 {
-  "name": "rubyx-tools",
+  "name": "rubix-tools",
   "version": "0.8.8",
-  "description": "tools for rubyx design",
+  "description": "tools for rubix design",
   "keywords": [
     "react",
     "tools"
   ],
-  "homepage": "https://github.com/wenyingxin/rubyx-tools",
+  "homepage": "https://github.com/wenyingxin/rubix-tools",
   "author": "yiminghe@gmail.com",
   "repository": {
     "type": "git",
@@ -17,8 +17,8 @@
   },
   "licenses": "MIT",
   "bin": {
-    "antd-tools": "./bin/rubyx-tools.js",
-    "antd-tools-run": "./bin/rubyx-tools-run.js"
+    "antd-tools": "./bin/rubix-tools.js",
+    "antd-tools-run": "./bin/rubix-tools-run.js"
   },
   "scripts": {
     "publish": "git push origin",
