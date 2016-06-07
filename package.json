@@ -1,24 +1,24 @@
 {
-  "name": "antd-tools",
+  "name": "rubyx-tools",
   "version": "0.8.8",
-  "description": "tools for ant design",
+  "description": "tools for rubyx design",
   "keywords": [
     "react",
     "tools"
   ],
-  "homepage": "http://github.com/ant-design/antd-tools",
+  "homepage": "https://github.com/wenyingxin/rubyx-tools",
   "author": "yiminghe@gmail.com",
   "repository": {
     "type": "git",
-    "url": "git@github.com:ant-design/antd-tools.git"
+    "url": "git+ssh://git@github.com/ant-design/antd-tools.git"
   },
   "bugs": {
     "url": "http://github.com/ant-design/antd-tools/issues"
   },
   "licenses": "MIT",
   "bin": {
-    "antd-tools": "./bin/antd-tools.js",
-    "antd-tools-run": "./bin/antd-tools-run.js"
+    "antd-tools": "./bin/rubyx-tools.js",
+    "antd-tools-run": "./bin/rubyx-tools-run.js"
   },
   "scripts": {
     "publish": "git push origin",
@@ -57,5 +57,7 @@
   },
   "pre-commit": [
     "lint"
-  ]
+  ],
+  "main": "index.js",
+  "license": "MIT"
 }
