@@ -1,6 +1,6 @@
 {
   "name": "rubix-tools",
-  "version": "0.9.0",
+  "version": "0.9.1",
   "description": "tools for rubix design",
   "keywords": [
     "react",
@@ -10,10 +10,10 @@
   "author": "yiminghe@gmail.com",
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/ant-design/antd-tools.git"
+    "url": "git+ssh://git@github.com/wenyingxin/rubix-tools.git"
   },
   "bugs": {
-    "url": "http://github.com/ant-design/antd-tools/issues"
+    "url": ""
   },
   "licenses": "MIT",
   "bin": {
