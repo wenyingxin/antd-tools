@@ -1,6 +1,6 @@
 {
   "name": "rubix-tools",
-  "version": "0.8.8",
+  "version": "0.8.9",
   "description": "tools for rubix design",
   "keywords": [
     "react",
@@ -17,8 +17,8 @@
   },
   "licenses": "MIT",
   "bin": {
-    "antd-tools": "./bin/rubix-tools.js",
-    "antd-tools-run": "./bin/rubix-tools-run.js"
+    "rubix-tools": "./bin/rubix-tools.js",
+    "rubix-tools-run": "./bin/rubix-tools-run.js"
   },
   "scripts": {
     "publish": "git push origin",
