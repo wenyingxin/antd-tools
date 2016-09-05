@@ -10,10 +10,10 @@
   "author": "yiminghe@gmail.com",
   "repository": {
     "type": "git",
-    "url": "git@github.com:ant-design/rubix-tools.git"
+    "url": "git@github.com:wenyingxin/rubix-tools.git"
   },
   "bugs": {
-    "url": "http://github.com/ant-design/rubix-tools/issues"
+    "url": "http://github.com/wenyingxin/rubix-tools/issues"
   },
   "licenses": "MIT",
   "bin": {
