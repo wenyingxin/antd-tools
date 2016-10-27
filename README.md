@@ -1,3 +1,3 @@
-# antd-tools
+# rubix-tools
 
-tools for ant design of React
+tools for rubix design of React
